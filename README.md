@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, seja bem-vindo ❣️
 
-<!--
-**mah041e/mah041e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Meu nome é Maria_ :)
 
-Here are some ideas to get you started:
+-Estou estudando com o [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 💌
+
+maria.meira.moura@escola.pr.gov.br
+
+@mah041e
+
+![](https://media.tenor.com/c56mUPIqFyUAAAAi/hello-kitty.gif)
